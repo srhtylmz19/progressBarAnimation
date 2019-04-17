@@ -1,10 +1,11 @@
 //
 //  UIView-Extension.swift
-//  battery-hub
+//  progressBarAnimation
 //
-//  Created by Yusuf Çınar on 29.01.2019.
-//  Copyright © 2019 Yusuf Çınar. All rights reserved.
+//  Created by Serhat Yilmaz on 16.04.2019.
+//  Copyright © 2019 Serhat Yilmaz. All rights reserved.
 //
+
 
 import Foundation
 import UIKit
